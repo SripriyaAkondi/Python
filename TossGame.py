@@ -1,8 +1,3 @@
-#Name: VISHNU SRIPRIYA AKONDI
-# Class: CS 524-01
-#Date : 04/19/2018
-#Description: This program allows 2 players to play the dice game Toss Up! game
-#Version: Python 3
 import random
 import collections
 n=10
